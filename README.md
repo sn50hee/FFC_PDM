@@ -66,7 +66,11 @@ A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
 &nbsp;&nbsp;&nbsp;&nbsp;D) 2023.11.29(수) ~ 2023.11.30(목): 통합 테스트 및 버그 수정
 </details>
 
-C. 클래스 다이어그램(추가 예정)
+<details>
+<summary>C. 클래스 다이어그램(추가 예정)</summary>
+
+![클래스 다이어그램](https://github.com/sn50hee/FFC_PDM/assets/139873815/639ac6cb-2bff-4dd1-87fc-3a5ad9957a55)
+</details>
 
 # 4. 기능 및 UI
 <details>
@@ -83,12 +87,6 @@ C. 클래스 다이어그램(추가 예정)
 &nbsp;&nbsp;&nbsp;&nbsp;E) 위험 인자에 대한 정보는 안정 범위(임계값)와 현재 위험한 장비의 모델ID, 차트가 있다.
 
 &nbsp;&nbsp;&nbsp;&nbsp;F) 차트의 X축은 시간, Y축은 값으로 구성된다.
-</details>
-
-<details>
-<summary>1-1) 클래스 다이어그램</summary>
-
-![클래스 다이어그램](https://github.com/sn50hee/FFC_PDM/assets/139873815/639ac6cb-2bff-4dd1-87fc-3a5ad9957a55)
 </details>
 
 ## 2) 화면 설계
