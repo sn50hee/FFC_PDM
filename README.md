@@ -21,19 +21,26 @@ B. 각각의 고장 위험 요소에 대해 임계값을 설정하고, 해당 �
 
 # 3. 사용 기술 및 개발 계획
 ## 1) 사용 기술
-### 1-1) 데이터 분석
+<details>
+<summary>1-1) 데이터 분석</summary>
+
 A. 언어: python3.8
 
 B. 라이브러리: numpy1.24.3, pandas2.0.3
 
 C. 개발 툴: Visual Studio Code 1.84.2
+</details>
 
-### 1-2) GUI
+<details>
+<summary>1-2) GUI</summary>
+
 A. 언어: C# 11.0
 
 B. Framework: .NET 7.0
 
 C. 라이브러리: scottplot 4.1.68
+</details>
+
 
 
 ## 2) 개발 계획
