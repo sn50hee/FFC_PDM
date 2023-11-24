@@ -1,6 +1,12 @@
 # FFC_PDM_WPF_Mini_Project
+팀명: FFC(Future Factory Collaborate)
 
-팀 소개
+팀장: 윤석희
+
+팀원: 김정관, 성민철
+
+주제: 제조 공정 예측 유지 보수하기
+
 
 # contents
 1. 개요
@@ -57,6 +63,8 @@ A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
 &nbsp;&nbsp;&nbsp;&nbsp;D) 2023.11.29(수) ~ 2023.11.30(목): 통합 테스트 및 버그 수정
 </details>
 
+C. 클래스 다이어그램(추가 예정)
+
 # 4. 기능 및 UI
 <details>
 <summary>1) 기능</summary>
@@ -67,6 +75,11 @@ A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
 &nbsp;&nbsp;&nbsp;&nbsp;D) 선택한 장비와 기간에 대해서 위험 인자에 대한 정보를 보여준다.
 &nbsp;&nbsp;&nbsp;&nbsp;E) 위험 인자에 대한 정보는 안정 범위(임계값)와 현재 위험한 장비의 모델ID, 차트가 있다.
 &nbsp;&nbsp;&nbsp;&nbsp;F) 차트의 X축은 시간, Y축은 값으로 구성된다.
+</details>
+
+<details>
+<summary>1-1) 요구사항 명세서</summary>
+
 </details>
 
 ## 2) UI
