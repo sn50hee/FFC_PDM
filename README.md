@@ -73,8 +73,9 @@ A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
 </details>
 
 # 4. 기능 및 UI
+## 1) 기능
 <details>
-<summary>1) 기능</summary>
+<summary></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;A) 통계 탭을 통하여 전체 장비의 고장률, 오류 발생률 등 통계 정보를 보여준다.
 
