@@ -91,6 +91,7 @@ A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
 
 ![* 요구사항 명세서](https://docs.google.com/spreadsheets/d/13IjB0QIO01f0eqLjAcbTYuhqO-PtYG1SyEyZqNa5JCo/edit#gid=0)
 </details>
+
 ## 2) 화면 설계
 통계 탭
 
