@@ -94,18 +94,17 @@ C. 클래스 다이어그램(추가 예정)
 ## 2) 화면 설계
 통계 탭
 
-![슬라이드1](https://github.com/sn50hee/FFC_PDM/assets/139873815/eb9d9aeb-9fb0-42b7-b3ae-bac96a057b95)
+![슬라이드1](https://github.com/sn50hee/FFC_PDM/assets/139873815/377bf04c-8e34-4230-b52f-07019b02ebce)
 
-![슬라이드2](https://github.com/sn50hee/FFC_PDM/assets/139873815/45d864a6-29f8-4bc9-bcba-c819ff2da32d)
+![슬라이드2](https://github.com/sn50hee/FFC_PDM/assets/139873815/f2730e07-db1d-4531-837c-7aa70e8ffefd)
 
 
 상세보기 탭
 
-![슬라이드3](https://github.com/sn50hee/FFC_PDM/assets/139873815/09390437-0e54-45e7-906e-21b2f9dce46b)
+![슬라이드3](https://github.com/sn50hee/FFC_PDM/assets/139873815/3e9bdb1a-8aad-4b99-83ae-866326bff0ac)
 
-![슬라이드4](https://github.com/sn50hee/FFC_PDM/assets/139873815/1430a431-5c96-4f89-9abf-a6a5886290b5)
+![슬라이드4](https://github.com/sn50hee/FFC_PDM/assets/139873815/61455b1f-24d5-4aa9-b15f-85ff3cf36408)
 
-![슬라이드5](https://github.com/sn50hee/FFC_PDM/assets/139873815/e62b6dc0-3e68-49bc-9ddb-279e5d0d7653)
-
+![슬라이드5](https://github.com/sn50hee/FFC_PDM/assets/139873815/1df1c89a-901a-4b63-9522-e2a121052c77)
 
 
