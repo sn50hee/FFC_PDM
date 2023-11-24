@@ -12,7 +12,7 @@
 1. 개요
 2. 사용 데이터 및 데이터 분석 계획
 3. 사용 기술 및 개발 계획
-4. 기능 및 UI
+4. 기능 및 화면 설계
 
 # 1. 개요
 예측 정비를 통해 운전 중 고장의 위험도를 감소시켜 설비 고장으로 생기는 금전, 시간, 인적 자원을 절약한다.
@@ -88,4 +88,21 @@ C. 클래스 다이어그램(추가 예정)
 
 </details>
 
-## 2) UI
+## 2) 화면 설계
+통계 탭
+
+![슬라이드1](https://github.com/sn50hee/FFC_PDM/assets/139873815/eb9d9aeb-9fb0-42b7-b3ae-bac96a057b95)
+
+![슬라이드2](https://github.com/sn50hee/FFC_PDM/assets/139873815/45d864a6-29f8-4bc9-bcba-c819ff2da32d)
+
+
+상세보기 탭
+
+![슬라이드3](https://github.com/sn50hee/FFC_PDM/assets/139873815/09390437-0e54-45e7-906e-21b2f9dce46b)
+
+![슬라이드4](https://github.com/sn50hee/FFC_PDM/assets/139873815/1430a431-5c96-4f89-9abf-a6a5886290b5)
+
+![슬라이드5](https://github.com/sn50hee/FFC_PDM/assets/139873815/e62b6dc0-3e68-49bc-9ddb-279e5d0d7653)
+
+
+
