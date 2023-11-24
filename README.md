@@ -19,7 +19,9 @@
 
 # 2. 사용 데이터 및 데이터 분석 기획
 - 사용 데이터
-캐글의 xinjang(Predictive Maintenance)의 PdM 데이터 활용(https://www.kaggle.com/datasets/yuansaijie0604/xinjiang-pm/code)
+- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;캐글의 xinjang(Predictive Maintenance)의 PdM 데이터 활용(https://www.kaggle.com/datasets/yuansaijie0604/xinjiang-pm/code)
+
 - 데이터 분석 계획
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. 장비 가동 데이터, 장비 정보, 설비 고장 이력 데이터, 경고 이력 데이터, 유지 보수 이력 데이터를 활용하여 고장에 위험을 주는 요소를 선별한다.
