@@ -86,8 +86,9 @@ C. 클래스 다이어그램(추가 예정)
 </details>
 
 <details>
-<summary>1-1) 요구사항 명세서</summary>
+<summary>1-1) 클래스 다이어그램</summary>
 
+![클래스 다이어그램](https://github.com/sn50hee/FFC_PDM/assets/139873815/639ac6cb-2bff-4dd1-87fc-3a5ad9957a55)
 </details>
 
 ## 2) 화면 설계
