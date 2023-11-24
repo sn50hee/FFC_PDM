@@ -89,7 +89,7 @@ A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
 
 &nbsp;&nbsp;&nbsp;&nbsp;F) 차트의 X축은 시간, Y축은 값으로 구성된다.
 
-! [* 요구사항 명세서](https://docs.google.com/spreadsheets/d/13IjB0QIO01f0eqLjAcbTYuhqO-PtYG1SyEyZqNa5JCo/edit#gid=0)
+![* 요구사항 명세서](https://docs.google.com/spreadsheets/d/13IjB0QIO01f0eqLjAcbTYuhqO-PtYG1SyEyZqNa5JCo/edit#gid=0)
 </details>
 ## 2) 화면 설계
 통계 탭
