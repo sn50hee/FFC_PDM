@@ -50,6 +50,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;C. 라이브러리: scottplot 4.1.68
 </details>
 
+<details>
+<summary>1-3) 데이터 분석 모델과 WPF 연결</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;B. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;C. 
+</details>
+
 
 
 ## 2) 개발 계획
