@@ -45,7 +45,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;A. 언어: C# 11.0
 
-&nbsp;&nbsp;&nbsp;&nbsp;B. Framework: .NET 7.0
+&nbsp;&nbsp;&nbsp;&nbsp;B. Framework: .NET 7.0, WPF
 
 &nbsp;&nbsp;&nbsp;&nbsp;C. 라이브러리: scottplot 4.1.68
 </details>
@@ -53,11 +53,9 @@
 
 
 ## 2) 개발 계획
-A. 개발 기간: 2023.11.24(금) ~ 2023.11.30(목)
+A. 개발 기간: 2023.11.27(월) ~ 2023.11.30(목)
 <details>
 <summary>B. 상세 계획</summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;A) 2023.11.24(금): 프로젝트 구조 설계 및 초기 세팅
 
 &nbsp;&nbsp;&nbsp;&nbsp;B) 2023.11.27(월): 데이터 분석 모듈 개발
 
