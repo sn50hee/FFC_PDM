@@ -1,5 +1,5 @@
 # FFC_PDM_WPF_Mini_Project
-팀명: FFC(Future Factory Collaborate)
+팀명: FFC(Future Factory Collaborators)
 
 팀장: 윤석희
 
